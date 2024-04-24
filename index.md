@@ -28,7 +28,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
-## News and Updates
+## Resume of me
 
-To be updated~
+[Here is my resume](https://Destiny200424.github.io/CV_DongSiyan)
+
+
 
