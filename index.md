@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://Destiny200424.github.io/dongsiyan.jpg" class="floatpic" width="360" height="400">
+<img src="https://Destiny200424.github.io/dongsiyan.jpg" class="floatpic" width="400" height="440">
 
 Here is **Siyan Dong (董思言)**.
 
