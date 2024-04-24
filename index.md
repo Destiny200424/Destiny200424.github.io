@@ -8,7 +8,7 @@ layout: page
 
 Here is **Siyan Dong (董思言)**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+I'm a sophomore at the School of Physics and Astronomy at Sun Yat-sen University. Currently have some experience with mathematical modeling competitions and have conducted some early scientific research. I've tried to comb through some of my own insights and physics course notes, which will be updated here in the future.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *dongsy6[at]mail2[dot]sysu[dot]edu[dot]cn*
 
@@ -20,7 +20,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- AMO
+- AMO ( 目前在看冷原子物理、量子光学 )
+- Deep Learning
 
 
 
@@ -29,6 +30,5 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Updates
 
-
-
+To be updated~
 
