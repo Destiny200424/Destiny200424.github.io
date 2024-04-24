@@ -10,8 +10,8 @@ title: Awards
 
 ## Competitions
 
-- May 2023：**<font color='black'>First Prize</font>** (Provincial Level) in Mathematical Contest In Modeling 
-- Nov 2022：**First Prize** (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
+- May 2023：**<font color='black'>First Prize</font>** (Provincial Level) in China Undergraduate Mathematical Contest in Modeling.
+- Nov 2022：**First Prize** (Provincial Level) in China Undergraduate Math Contest.
 
 ## Services
 
