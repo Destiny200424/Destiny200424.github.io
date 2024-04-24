@@ -13,8 +13,8 @@ owner:
   cv: 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
 
-  linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+
 
   # facebook: caihanlin2002
   # instagram: lancecai2002
@@ -35,16 +35,12 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Teams
-    url: /teams/
-  - title: Publications
-    url: /publications/
+  - title: Course Notes
+    url: /notes/
   - title: Awards
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
