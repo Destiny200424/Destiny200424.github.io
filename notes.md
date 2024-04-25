@@ -20,10 +20,22 @@ title: Publications
 
 - [分析力学](https://Destiny200424.github.io/file/力学 & 理论力学_by_D.pdf)
 - [波动光学](https://Destiny200424.github.io/file/叶老师的波动光学与其他.pdf)
+- [电动力学导论](https://Destiny200424.github.io/file/《电动力学导论》(Griffiths) 学习笔记.pdf)
+
+
+
+### Updating:
+
+- [基础天文学](https://Destiny200424.github.io/file/物理笔记_天文学基础.pdf)
+- [热统]()
 
 
 
 
+
+## Lab Reports
+
+TBD~
 
 ## Follow or Contact me : )
 
@@ -31,6 +43,16 @@ title: Publications
 
 以及下面是自己的公众号，更新会更及时：
 
+```markdown
+<div style="text-align:center">
+    <img src="https://Destiny200424.github.io/gzh.jpg" width="400" height="440">
+</div>
+```
+
 <img src="https://Destiny200424.github.io/gzh.jpg" class="floatpic" width="400" height="440">
 
 <img src="https://Destiny200424.github.io/wechat.jpg" class="floatpic" width="400" height="440">
+
+<div style="text-align:center">
+    <img src="https://Destiny200424.github.io/wechat.jpg" width="400" height="440">
+</div>
