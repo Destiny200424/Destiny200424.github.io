@@ -27,7 +27,7 @@ title: Publications
 ### Updating:
 
 - [基础天文学](https://Destiny200424.github.io/file/物理笔记_天文学基础.pdf)
-- [热统]()
+- [热统](https://Destiny200424.github.io/file/热力学的基本规律.pdf)
 
 
 
