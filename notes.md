@@ -27,15 +27,18 @@ title: Publications
 ### Updating:
 
 - [基础天文学](https://Destiny200424.github.io/file/物理笔记_天文学基础.pdf)
-- [热统](https://Destiny200424.github.io/file/热力学的基本规律.pdf)
 
+- [热统](https://Destiny200424.github.io/file/热统笔记.pdf)
 
+- [电动力学（TBD~）]()
 
-
+  
 
 ## Lab Reports
 
 TBD~
+
+
 
 ## Follow or Contact me : )
 
