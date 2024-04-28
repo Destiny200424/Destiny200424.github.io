@@ -15,6 +15,8 @@ title: Awards
 
 ## Services
 
-- Nov 2023 - Present： President, Student Union, School of Physics and Astronomy, Sun Yat-sen University.
+- Nov 2023 - Present： President of Student Union, School of Physics and Astronomy, Sun Yat-sen University.
+
+- Apr 2024 - Present:    Leader of Sichuan Team, National Publicity Volunteer Team, Sun Yat-sen University.
 
   
