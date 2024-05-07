@@ -34,6 +34,14 @@ title: Publications
 
   
 
+## Math Modeling
+
+- [2024MCM_Figures](https://Destiny200424.github.io/file/24MCM_figures.pptx)
+
+- [Paper(TBD~)]()
+
+  
+
 ## Lab Reports
 
 TBD~
