@@ -12,7 +12,7 @@ title: Publications
 
 - [高数笔记](https://Destiny200424.github.io/file/高数复习与CMC备考.pdf)
 - [概率统计](https://Destiny200424.github.io/file/概统公式总结.pdf)
-- [数理方法](MMP复习.pdf)
+- [数理方法](https://Destiny200424.github.io/file/MMP复习.pdf)
 
 
 
