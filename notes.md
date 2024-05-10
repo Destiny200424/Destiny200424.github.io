@@ -14,15 +14,11 @@ title: Publications
 - [概率统计](https://Destiny200424.github.io/file/概统公式总结.pdf)
 - [数理方法](https://Destiny200424.github.io/file/MMP复习.pdf)
 
-
-
 ### Physics:
 
 - [分析力学](https://Destiny200424.github.io/file/力学 & 理论力学_by_D.pdf)
 - [波动光学](https://Destiny200424.github.io/file/叶老师的波动光学与其他.pdf)
 - [电动力学导论](https://Destiny200424.github.io/file/《电动力学导论》(Griffiths) 学习笔记.pdf)
-
-
 
 ### Updating:
 
@@ -31,8 +27,6 @@ title: Publications
 - [热统](https://Destiny200424.github.io/file/热统笔记.pdf)
 
 - [电动力学（TBD~）]()
-
-  
 
 ## Math Modeling
 
