@@ -26,15 +26,13 @@ title: Publications
 
 - [热统](https://Destiny200424.github.io/file/热统笔记.pdf)
 
-- [电动力学（TBD~）]()
+- [电动力学（手写笔记）](https://Destiny200424.github.io/file/电动力学复习.pdf)
 
 ## Math Modeling
 
 - [2024MCM_Figures](https://Destiny200424.github.io/file/24MCM_figures.pptx)
 
 - [Paper(TBD~)]()
-
-  
 
 ## Lab Reports
 
