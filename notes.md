@@ -34,6 +34,10 @@ title: Publications
 
 - [Paper(TBD~)]()
 
+## Beamer Model
+
+[Beamer SYSU SPA simple model(Overleaf&texstudio)](https://Destiny200424.github.io/file/Beamer_SYSU_SPA_simple_model.zip)
+
 ## Lab Reports
 
 TBD~
