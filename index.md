@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-Here is **Siyan Dong **.
+Here is **Siyan Dong**.
 
 I'm a sophomore at the School of Physics and Astronomy at Sun Yat-sen University. Currently have some experience with mathematical modeling competitions and have conducted some early scientific research. I've tried to comb through some of my own insights and physics course notes, which will be updated here in the future.
 
