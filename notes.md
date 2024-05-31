@@ -4,7 +4,9 @@ permalink: /notes/index.html
 title: Publications
 ---
 
+## Learning kit
 
+- [原子物理备考](https://Destiny200424.github.io/file/原子物理备考.zip)
 
 ## Course Notes
 
