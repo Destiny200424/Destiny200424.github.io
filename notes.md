@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /notes/index.html
-title: Publications
+title: Notes
 ---
 
 ## Learning kit
