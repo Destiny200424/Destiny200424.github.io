@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /blogs/index.html
+title: Blogs
 ---
 
-# Hobbies
+# Blogs
 
 To be updated~
 
