@@ -21,9 +21,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Research Interests
 
 - AMO  (Cold Atom)
-- Deep Learning
-
-
+- Physics-based Deep Learning (AI4S)
 
 
 ---
