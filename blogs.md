@@ -28,7 +28,7 @@ Fortunately, I have a chance to deliver a oral presentation:
 
 I went to Xinjiang. Just breathtaking!
 
-<img src="C:\Users\86187\Documents\GitHub\Destiny200424.github.io\images\xinjiang.jpg" style="zoom: 33%;" />
+<img src="https://Destiny200424.github.io/imagesxinjiang.jpg" style="zoom: 33%;" />
 
 We also attended a summer camp.
 
