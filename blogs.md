@@ -28,8 +28,6 @@ Fortunately, I have a chance to deliver a oral presentation:
 
 I went to Xinjiang. Just breathtaking!
 
-<img src="https://Destiny200424.github.io/imagesxinjiang.jpg" style="zoom: 33%;" />
-
 We also attended a summer camp.
 
 <div class="calendly-inline-widget" data-url="https://calendly.com/destiny200424/30min" style="min-width:320px;height:630px;"></div>
