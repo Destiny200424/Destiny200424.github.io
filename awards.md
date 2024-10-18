@@ -6,6 +6,7 @@ title: Awards
 
 ## Scholarships
 
+- 2023-2024：China National Scholarship
 - 2022-2023：China National Scholarship
 
 ## Competitions
