@@ -38,7 +38,7 @@ We have a poster presentation:
 
 Fortunately, I have a chance to deliver a oral presentation:
 
-(Paper in preparation)
+[Click here to see my slides!](https://Destiny200424.github.io/mypaper/弱光探测_结题答辩V1.pptx)
 
 ## Jul. 2024
 
@@ -48,10 +48,16 @@ We also attended a **summer camp.**
 
 [Click here to get more information about the camp](https://xao.cas.cn/xwzx/tzgg/202405/t20240527_7172980.html)
 
+## Before these
 
+### 2023 Autumn  
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/destiny200424/30min" style="min-width:320px;height:630px;"></div>
- <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+We started the Star River program - similar to academic tutoring; and I presented the first session - on the Mathematical Modeling Competition.
 
-<!-- Calendly inline widget end -->
+[Click here to see our official tweet](https://mp.weixin.qq.com/s/zXtHewSsQJahCtOpFFGSVg)
 
+### 2022 Winter
+
+We participated in the China Undergraduate Physics Tournament（CUPT in brief) intramural competition, which was my first exposure to “research” in college.
+
+[Click here to see our slides]( )
