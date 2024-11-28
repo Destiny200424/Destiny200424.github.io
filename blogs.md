@@ -22,7 +22,7 @@ We participated in the South China University Experimental Physics Competition a
 
 ## Sep. 2024
 
-I joined a program in ihep, which favors **AS$\gamma$ in Tibet**
+I joined a program in ihep, which favors AS$\gamma$ in Tibet
 
 [Tibet AS Gamma Experiment (u-tokyo.ac.jp)](https://www.icrr.u-tokyo.ac.jp/em/index.html)
 
