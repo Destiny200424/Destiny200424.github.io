@@ -10,11 +10,13 @@ I'm a sophomore at the School of Physics and Astronomy at Sun Yat-sen University
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - 
 
-*dongsy6@mail2.sysu.edu.cn*
+[dongsy6@mail2.sysu.edu.cn](dongsy6@mail2.sysu.edu.cn)
 
 ## Academic Background
 
-- **June 2022 - Present:** Sun Yat-sen University
+- **August 2024 - Present:** Institute of High Energy Physics  **Visiting student**
+- **April 2024 - Present:** Shenzhen Institute for Quantum Science and Engineering **Visiting student**
+- **June 2022 - Present:** Sun Yat-sen University **BS**
 
 ---
 

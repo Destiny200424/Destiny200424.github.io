@@ -50,14 +50,28 @@ We also attended a **summer camp.**
 
 ## Before these
 
+### 2024 Spring
+
+I updated my physics notes on my public website and gained more readers (four 1w+ reads)--- seen as "course notes"; at the same time, I made a Beamer template for my college by learning to imitate it and uploaded it to Overleaf.
+
+[我给学院做了一个Beamer模板](https://mp.weixin.qq.com/s/D1TMB_9hA48RAmWdswrzeA)
+
+[Beamer_SYSU_SPA_simple_model - Overleaf, Online LaTeX Editor](https://www.overleaf.com/latex/templates/beamer-sysu-spa-simple-model/jdfzvbxxsdcs)
+
 ### 2023 Autumn  
 
 We started the Star River program - similar to academic tutoring; and I presented the first session - on the Mathematical Modeling Competition.
 
 [Click here to see our official tweet](https://mp.weixin.qq.com/s/zXtHewSsQJahCtOpFFGSVg)
 
+### 2023 Summer
+
+I participated in the university student experimental physics competition (innovation competition) for the first time, completing the project on temperature measurement based on the conductivity of solutions. It was a very interesting experience.
+
+[Click here to see our slides](https://Destiny200424.github.io/mypaper/溶液导电性PPT_final_version.pptx)
+
 ### 2022 Winter
 
 We participated in the China Undergraduate Physics Tournament（CUPT in brief) intramural competition, which was my first exposure to “research” in college.
 
-[Click here to see our slides]( )
+[Click here to see our slides](https://Destiny200424.github.io/mypaper/CUPT耿灏林组上游流(董思言参与).pptx)
