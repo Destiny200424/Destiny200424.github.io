@@ -8,6 +8,7 @@ title: Notes
 
 - [原子物理备考](https://Destiny200424.github.io/file/原子物理备考.zip)
 - [托福备考](https://Destiny200424.github.io/file/README.pdf)
+- [实验笔记](https://Destiny200424.github.io/file/近代物理实验I笔记.pdf)
 
 ## Course Notes
 
