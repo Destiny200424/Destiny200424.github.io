@@ -57,6 +57,4 @@ TBD~
     <img src="https://Destiny200424.github.io/gzh.jpg" width="400" height="440">
 </div>
 
-<div style="text-align:center">
-    <img src="https://Destiny200424.github.io/wechat.jpg" width="400" height="440">
-</div>
+
