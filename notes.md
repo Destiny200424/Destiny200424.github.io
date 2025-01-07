@@ -4,12 +4,6 @@ permalink: /notes/index.html
 title: Notes
 ---
 
-## Learning kit
-
-- [原子物理备考](https://Destiny200424.github.io/file/原子物理备考.zip)
-- [托福备考](https://Destiny200424.github.io/file/README.pdf)
-- [实验笔记](https://Destiny200424.github.io/file/近代物理实验I笔记.pdf)
-
 ## Course Notes
 
 ### Math: 
@@ -24,13 +18,19 @@ title: Notes
 - [波动光学](https://Destiny200424.github.io/file/叶老师的波动光学与其他.pdf)
 - [电动力学导论](https://Destiny200424.github.io/file/《电动力学导论》(Griffiths) 学习笔记.pdf)
 
-### Updating:
-
 - [基础天文学](https://Destiny200424.github.io/file/物理笔记_天文学基础.pdf)
 
 - [热统](https://Destiny200424.github.io/file/热统笔记.pdf)
 
-- [电动力学（手写笔记）](https://Destiny200424.github.io/file/电动力学复习.pdf)
+- [电动力学（手写笔记)](https://Destiny200424.github.io/file/电动力学复习.pdf)
+
+- [量子力学](https://Destiny200424.github.io/file/QM_notes.pdf)
+
+## Learning kit
+
+- [原子物理备考](https://Destiny200424.github.io/file/原子物理备考.zip)
+- [托福备考](https://Destiny200424.github.io/file/README.pdf)
+- [实验笔记](https://Destiny200424.github.io/file/近代物理实验I笔记.pdf)
 
 ## Math Modeling
 
@@ -44,9 +44,7 @@ title: Notes
 
 ## Lab Reports
 
-TBD~
-
-
+[Methods and templates to finish lab repoorts]([mp.weixin.qq.com/s/pqVP3QDE2lYSs7vrdkI8bA](https://mp.weixin.qq.com/s/pqVP3QDE2lYSs7vrdkI8bA))
 
 ## Follow or Contact me : )
 
